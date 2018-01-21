@@ -1,0 +1,66 @@
+
+#container{
+  background-color: skyblue;
+  position: relative;
+  width: 50%;
+  border: 1px solid black;
+  border-radius: 20px 20px 20px 20px;
+  margin: 0px auto;
+  padding: 20px 20px 100px 20px;
+}
+#agh{
+  position: relative;
+  float: right;
+  margin-top: 15px;
+}
+#agh p{
+  font-size: 20px;
+  font-weight: 900;
+}
+input[type=button] {
+  background: lightGray;
+  width: 20%;
+  padding: 3%;
+  font-size: 20px;
+  font-weight: 900;
+  border-radius: 7px;
+  margin-left: 9%;
+  margin-top: 6%;
+}
+input[type=submit] {
+  background: lightGray;
+  width: 20%;
+  padding: 3%;
+  font-size: 20px;
+  font-weight: 900;
+  border-radius: 7px;
+  margin-left: 9%;
+  margin-top: 6%;
+}
+input[type=button]:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+input[type=button]:hover {
+  background-color: #003300;
+  color: white;
+}
+
+input[type = text] {
+  position: relative;
+  display: block;
+  max-height: 200px;
+  width: 90%;
+  margin: 5px auto;
+  font-size: 20px;
+  padding: 20px;
+  border-radius: 10px 10px 10px 10px;
+}
+.header{
+    background-color: skyblue;
+    max-width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5%; 
+}
