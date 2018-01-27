@@ -1,6 +1,6 @@
 
 #container{
-  background-color: skyblue;
+  background-color: green;
   position: relative;
   width: 50%;
   border: 1px solid black;
@@ -18,7 +18,7 @@
   font-weight: 900;
 }
 input[type=button] {
-  background: lightGray;
+  background: white;
   width: 20%;
   padding: 3%;
   font-size: 20px;
@@ -28,7 +28,7 @@ input[type=button] {
   margin-top: 6%;
 }
 input[type=submit] {
-  background: lightGray;
+  background: red;
   width: 20%;
   padding: 3%;
   font-size: 20px;
@@ -58,7 +58,8 @@ input[type = text] {
   border-radius: 10px 10px 10px 10px;
 }
 .header{
-    background-color: skyblue;
+    background-color: green;
+	color: white;
     max-width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;

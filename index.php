@@ -5,11 +5,11 @@
 </head>
 
 <body>
-			<div class="header">
-				<h2 align="center">Queueing System of Notre Dame of Dadiangas University</h2>
-			</div>
 	<!--Sample Code-->
 	 <div id='container'>
+		<div class="header">
+				<h2 align="center">Queueing System of Notre Dame of Dadiangas University</h2>
+			</div>
 	<form name="queue" action="index.php">
             
             <input type="text" name="id" placeholder="Enter Your ID Number.."/><br>
