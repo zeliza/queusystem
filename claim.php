@@ -11,9 +11,11 @@ foreach($_POST['check_list'] as $selected) {
 echo "<p>".$selected ."</p>";
 }
 }
+
 else{
 echo "<b>Please Select Atleast One Option.</b>";
 }
+
 
 echo "Queue Number: <br>";
 echo rand(1,10);
