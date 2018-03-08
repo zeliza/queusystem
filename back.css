@@ -73,6 +73,7 @@ input[type = text] {
   padding: 20px;
   border: 5px solid black;
   margin:30px;
+<<<<<<< HEAD
 }
 #container{
   background-color: skyblue;
@@ -148,4 +149,6 @@ input[type = text] {
   padding: 20px;
   border: 5px solid black;
   margin:30px;
+=======
+>>>>>>> 7778d90f0893e63ff447ed70ad57ff4a0833f36b
 }

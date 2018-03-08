@@ -1,6 +1,4 @@
-<html>
 
-<center> <b>
 <?php
 
 if(isset($_POST['submit'])){
@@ -22,5 +20,3 @@ echo rand(1,10);
 }
 ?>
 	
-
-</html>
