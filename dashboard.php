@@ -16,8 +16,19 @@ include("auth.php");
 <div class="form" style="border: 2px solid gray;">
 <p>Dashboard</p>
 <p>This is another secured page.</p>
-<p><a href="index.php">Home</a></p>
+<p><a href="Dashboard.php">Home</a></p>
+<p><a href="index.php">Issue Queue Ticket</a></p>
+
+
+
+
+
+
+
+
 <a href="logout.php">Logout</a>
+
+
 </div>
 </div>
 </body>
